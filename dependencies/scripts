@@ -1,0 +1,2 @@
+#! /bin/bash
+echo "yum install -y httpd"
